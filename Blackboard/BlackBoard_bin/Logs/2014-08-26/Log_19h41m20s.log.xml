@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/08/26 19:41:20">
+	<logRecord id="0" time="2014/08/26 19:41:20.239" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/08/26 19:41:20.258" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/08/26 19:41:26.923" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/08/26 19:42:46.552" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="4" time="2014/08/26 19:42:46.841" priority="5">-&gt; [STUB]: PYROBOCLIPS STUB cmd_one "params cmd one" @3</logRecord>
+	<logRecord id="5" time="2014/08/26 19:42:47.846" priority="5">-&gt; [PYROBOCLIPS]: STUB PYROBOCLIPS cmd_one "cmd_one response" 1 @3</logRecord>
+	<logRecord id="6" time="2014/08/26 19:47:33.169" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="7" time="2014/08/26 19:47:33.469" priority="5">Can't send to STUB: PYROBOCLIPS STUB cmd_one "params cmd one" @3 [Send failed . Not connected ]</logRecord>
+	<logRecord id="8" time="2014/08/26 19:47:33.470" priority="5">-&gt; [PYROBOCLIPS]: STUB PYROBOCLIPS cmd_one "params cmd one" 0 @3</logRecord>
+	<logRecord id="9" time="2014/08/26 19:49:33.513" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="10" time="2014/08/26 19:49:33.812" priority="5">Can't send to STUB: PYROBOCLIPS STUB cmd_one "params cmd one" @3 [Send failed . Not connected ]</logRecord>
+	<logRecord id="11" time="2014/08/26 19:49:33.812" priority="5">-&gt; [PYROBOCLIPS]: STUB PYROBOCLIPS cmd_one "params cmd one" 0 @3</logRecord>
+	<logRecord id="12" time="2014/08/26 19:52:11.511" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="13" time="2014/08/26 19:52:11.811" priority="5">Can't send to STUB: PYROBOCLIPS STUB cmd_one "params cmd one" @3 [Send failed . Not connected ]</logRecord>
+	<logRecord id="14" time="2014/08/26 19:52:11.811" priority="5">-&gt; [PYROBOCLIPS]: STUB PYROBOCLIPS cmd_one "params cmd one" 0 @3</logRecord>
+	<logRecord id="15" time="2014/08/26 19:57:44.029" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="16" time="2014/08/26 19:57:44.328" priority="5">Can't send to STUB: PYROBOCLIPS STUB cmd_one "params cmd one" @3 [Send failed . Not connected ]</logRecord>
+	<logRecord id="17" time="2014/08/26 19:57:44.328" priority="5">-&gt; [PYROBOCLIPS]: STUB PYROBOCLIPS cmd_one "params cmd one" 0 @3</logRecord>
+	<logRecord id="18" time="2014/08/26 19:59:47.220" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="19" time="2014/08/26 19:59:47.520" priority="5">Can't send to STUB: PYROBOCLIPS STUB cmd_one "params cmd one" @3 [Send failed . Not connected ]</logRecord>
+	<logRecord id="20" time="2014/08/26 19:59:47.520" priority="5">-&gt; [PYROBOCLIPS]: STUB PYROBOCLIPS cmd_one "params cmd one" 0 @3</logRecord>

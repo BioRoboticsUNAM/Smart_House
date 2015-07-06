@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/09/28 22:25:54">
+	<logRecord id="0" time="2014/09/28 22:25:54.385" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/09/28 22:25:54.405" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/09/28 22:26:01.024" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/09/28 22:26:07.363" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="4" time="2014/09/28 23:19:31.048" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+</log>

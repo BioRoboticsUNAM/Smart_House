@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2015/07/03 18:25:57">
+	<logRecord id="0" time="2015/07/03 18:25:57.649" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2015/07/03 18:25:57.764" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2015/07/03 18:25:59.072" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2015/07/03 18:26:34.126" priority="5">-&gt; [SMARTHAUSE]: BLK SMARTHAUSE suscribe_var "SmarthauseHandler suscribe=writeothers report=content" 0 @3</logRecord>
+	<logRecord id="4" time="2015/07/03 18:31:57.923" priority="5">-&gt; [INTERFACE]: BLK INTERFACE suscribe_var "interface suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="5" time="2015/07/03 18:35:24.767" priority="5">-&gt; [SMARTHAUSE]: BLK SMARTHAUSE suscribe_var "smarthause suscribe=writeothers report=content" 1 @3</logRecord>
+</log>

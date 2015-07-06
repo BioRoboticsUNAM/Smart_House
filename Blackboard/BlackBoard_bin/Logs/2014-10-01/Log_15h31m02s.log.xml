@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/10/01 15:31:02">
+	<logRecord id="0" time="2014/10/01 15:31:02.477" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/10/01 15:31:02.500" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/10/01 15:31:08.543" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/10/01 15:31:39.430" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="4" time="2014/10/01 15:38:45.610" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="5" time="2014/10/01 15:51:39.729" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="6" time="2014/10/01 15:56:38.190" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="7" time="2014/10/01 16:47:13.426" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="8" time="2014/10/01 16:50:01.253" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>

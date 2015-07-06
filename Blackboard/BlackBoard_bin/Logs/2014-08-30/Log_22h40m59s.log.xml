@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/08/30 22:40:59">
+	<logRecord id="0" time="2014/08/30 22:40:59.600" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/08/30 22:40:59.620" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/08/30 22:41:03.319" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/08/30 22:42:09.165" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="4" time="2014/08/30 22:42:09.454" priority="5">Can't send to CUBES: PYROBOCLIPS CUBES cmd_one "params cmd one" @3 [Send failed . Not connected ]</logRecord>
+	<logRecord id="5" time="2014/08/30 22:42:09.455" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS cmd_one "params cmd one" 0 @3</logRecord>
+</log>

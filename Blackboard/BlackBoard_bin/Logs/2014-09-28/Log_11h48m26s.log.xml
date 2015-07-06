@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/09/28 11:48:26">
+	<logRecord id="0" time="2014/09/28 11:48:26.129" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/09/28 11:48:26.148" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/09/28 11:48:29.668" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/09/28 11:50:30.575" priority="5">-&gt; [SERIALC]: BLK SERIALC subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>

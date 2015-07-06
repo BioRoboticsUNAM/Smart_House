@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/09/29 19:10:37">
+	<logRecord id="0" time="2014/09/29 19:10:37.239" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/09/29 19:10:37.262" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/09/29 19:11:51.573" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/09/29 19:11:51.717" priority="5">Stopping modules...</logRecord>
+	<logRecord id="4" time="2014/09/29 19:11:51.721" priority="5">Blackboard server Stopped</logRecord>

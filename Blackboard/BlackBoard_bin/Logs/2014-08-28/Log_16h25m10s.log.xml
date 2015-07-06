@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/08/28 16:25:10">
+	<logRecord id="0" time="2014/08/28 16:25:10.677" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/08/28 16:25:10.696" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/08/28 16:25:48.076" priority="5">Blackboard Started</logRecord>
+</log>

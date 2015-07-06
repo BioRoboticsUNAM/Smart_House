@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/09/26 12:51:15">
+	<logRecord id="0" time="2014/09/26 12:51:15.368" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/09/26 12:51:15.387" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/09/26 12:51:21.300" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/09/26 12:51:24.065" priority="5">-&gt; [SERIALC]: BLK SERIALC subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="4" time="2014/09/26 12:54:46.676" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="5" time="2014/09/26 12:54:46.976" priority="5">Can't send to STUB: PYROBOCLIPS STUB cmd_one "test" @3 [Send failed . Not connected ]</logRecord>
+	<logRecord id="6" time="2014/09/26 12:54:46.976" priority="5">-&gt; [PYROBOCLIPS]: STUB PYROBOCLIPS cmd_one "test" 0 @3</logRecord>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blackboard version="1.0">
+	
+	<configuration>
+		<name>BLK</name>
+		<port>2300</port>
+		<sendAttemps>2</sendAttemps>
+		<commands />
+		<startupSequence />
+		<shutdownSequence />
+	</configuration>
+
+	<sharedVariables>
+		<var name="lampara" type="string"/>
+		<var name="escritorio" type="string"/>
+	</sharedVariables>
+	
+	<modules>
+		
+		<module name="LAMPARA">
+			<ip>127.0.0.1</ip>
+			<ip>192.168.190.110</ip>
+			<port>2030</port>
+			<aliveCheck>true</aliveCheck>
+                        <commands>
+                                <command name="cmd_one" answer="True" parameters="True" timeout="2000" />
+                                <command name="cmd_two" answer="True" parameters="True" timeout="6000" />
+                        </commands>
+		</module>
+
+		<module name="ESCRITORIO">
+                        <ip>127.0.0.1</ip>
+                        <ip>192.168.190.110</ip>
+                        <port>2020</port>
+                        <aliveCheck>true</aliveCheck>
+                        <commands>
+                                <command name="cmd_one" answer="True" parameters="True" timeout="2000" />
+                                <command name="cmd_two" answer="True" parameters="True" timeout="6000" />
+                        </commands>
+                </module>
+		
+
+	</modules>
+
+</blackboard>

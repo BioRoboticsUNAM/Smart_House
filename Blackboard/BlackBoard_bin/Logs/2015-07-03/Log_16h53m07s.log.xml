@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2015/07/03 16:53:07">
+	<logRecord id="0" time="2015/07/03 16:53:07.383" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2015/07/03 16:53:07.497" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2015/07/03 16:53:08.917" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2015/07/03 16:53:31.995" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="4" time="2015/07/03 17:00:46.176" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="5" time="2015/07/03 17:01:15.271" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="6" time="2015/07/03 17:13:12.984" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="7" time="2015/07/03 17:13:19.185" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="8" time="2015/07/03 17:14:26.229" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="9" time="2015/07/03 17:19:52.959" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="10" time="2015/07/03 17:19:57.887" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="11" time="2015/07/03 17:20:38.115" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="12" time="2015/07/03 17:25:08.821" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="13" time="2015/07/03 17:25:16.237" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="14" time="2015/07/03 17:27:46.614" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="15" time="2015/07/03 17:28:03.213" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="16" time="2015/07/03 17:29:01.294" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="17" time="2015/07/03 17:29:09.384" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="18" time="2015/07/03 17:29:21.871" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="19" time="2015/07/03 17:29:36.671" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="20" time="2015/07/03 17:30:45.895" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="21" time="2015/07/03 17:31:03.862" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="22" time="2015/07/03 17:31:06.841" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="23" time="2015/07/03 17:31:23.595" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="24" time="2015/07/03 17:32:29.919" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="25" time="2015/07/03 17:33:13.519" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="26" time="2015/07/03 17:34:10.990" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="27" time="2015/07/03 17:34:34.263" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="28" time="2015/07/03 17:35:19.086" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="29" time="2015/07/03 17:39:18.298" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="30" time="2015/07/03 17:40:17.234" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="31" time="2015/07/03 17:40:43.822" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="32" time="2015/07/03 17:41:06.381" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="33" time="2015/07/03 17:44:31.275" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="34" time="2015/07/03 17:44:35.740" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="35" time="2015/07/03 17:46:08.010" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="36" time="2015/07/03 17:46:11.914" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="37" time="2015/07/03 17:46:15.742" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="38" time="2015/07/03 17:46:17.794" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="39" time="2015/07/03 17:46:21.914" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="40" time="2015/07/03 17:46:24.183" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="41" time="2015/07/03 17:46:33.549" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="42" time="2015/07/03 17:46:52.588" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="43" time="2015/07/03 17:47:05.756" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="44" time="2015/07/03 17:47:13.845" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="45" time="2015/07/03 17:47:21.010" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="46" time="2015/07/03 17:48:04.554" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="47" time="2015/07/03 17:48:42.966" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="48" time="2015/07/03 17:49:21.185" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="49" time="2015/07/03 17:51:26.825" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="50" time="2015/07/03 17:51:37.448" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="51" time="2015/07/03 17:52:19.047" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="52" time="2015/07/03 17:53:03.303" priority="5">-&gt; [ESCRITORIO]: BLK ESCRITORIO suscribe_var "escritorio suscribe=writeothers report=content" 1 @3</logRecord>
+	<logRecord id="53" time="2015/07/03 17:55:06.109" priority="5">-&gt; [LAMPARA]: BLK LAMPARA suscribe_var "lampara suscribe=writeothers report=content" 1 @3</logRecord>

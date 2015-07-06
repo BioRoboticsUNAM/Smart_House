@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/05/16 19:57:48">
+	<logRecord id="0" time="2014/05/16 19:57:48.115" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/05/16 19:57:48.130" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/05/16 19:57:48.154" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/05/16 19:58:19.455" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "outsidedoor suscribe=writeany report=content" 1 @2</logRecord>
+	<logRecord id="4" time="2014/05/16 19:58:20.735" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "cubestable suscribe=writeany report=content" 1 @4</logRecord>
+	<logRecord id="5" time="2014/05/16 19:58:22.059" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "robot suscribe=writeany report=content" 1 @6</logRecord>
+	<logRecord id="6" time="2014/05/16 19:58:23.163" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockF suscribe=writeany report=content" 1 @8</logRecord>
+	<logRecord id="7" time="2014/05/16 19:58:24.306" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockE suscribe=writeany report=content" 1 @10</logRecord>
+	<logRecord id="8" time="2014/05/16 19:58:25.128" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockD suscribe=writeany report=content" 1 @12</logRecord>
+	<logRecord id="9" time="2014/05/16 19:58:25.749" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockC suscribe=writeany report=content" 1 @14</logRecord>
+	<logRecord id="10" time="2014/05/16 19:58:26.351" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockB suscribe=writeany report=content" 1 @16</logRecord>
+	<logRecord id="11" time="2014/05/16 19:58:26.953" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockA suscribe=writeany report=content" 1 @18</logRecord>
+	<logRecord id="12" time="2014/05/16 19:58:27.554" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "table suscribe=writeany report=content" 1 @20</logRecord>
+	<logRecord id="13" time="2014/05/16 19:58:28.537" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES status_object "sensors outsidedoor" @21</logRecord>
+	<logRecord id="14" time="2014/05/16 19:58:34.671" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS status_object "sensors outsidedoor open" 1 @21</logRecord>
+	<logRecord id="15" time="2014/05/16 19:58:40.448" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES goto "robot frontentrance" @22</logRecord>
+	<logRecord id="16" time="2014/05/16 19:58:40.461" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS goto "robot frontentrance 1" 1 @22</logRecord>
+	<logRecord id="17" time="2014/05/16 19:58:41.635" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES goto "robot cubestable" @23</logRecord>
+	<logRecord id="18" time="2014/05/16 19:58:41.646" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS goto "robot cubestable 1" 1 @23</logRecord>
+	<logRecord id="19" time="2014/05/16 19:58:42.822" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES speak "I will acomodate the cubes" @24</logRecord>
+	<logRecord id="20" time="2014/05/16 19:58:42.835" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS speak "speak response" 1 @24</logRecord>
+	<logRecord id="21" time="2014/05/16 20:01:08.964" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES speak "I'm checking if the door is open" @25</logRecord>
+	<logRecord id="22" time="2014/05/16 20:01:08.969" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS speak "speak response" 1 @25</logRecord>
+	<logRecord id="23" time="2014/05/16 20:01:13.429" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "blockD" @26</logRecord>
+	<logRecord id="24" time="2014/05/16 20:01:13.432" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "blockD 1 2 3" 1 @26</logRecord>
+	<logRecord id="25" time="2014/05/16 20:01:14.577" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "cubestable" @27</logRecord>
+	<logRecord id="26" time="2014/05/16 20:01:14.587" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "cubestable 1 2 3" 1 @27</logRecord>
+	<logRecord id="27" time="2014/05/16 20:01:16.046" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @28</logRecord>
+	<logRecord id="28" time="2014/05/16 20:01:16.055" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @28</logRecord>
+	<logRecord id="29" time="2014/05/16 20:01:17.716" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES grab "manipulator blockD" @29</logRecord>
+	<logRecord id="30" time="2014/05/16 20:01:17.744" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS grab "manipulator blockD" 1 @29</logRecord>
+	<logRecord id="31" time="2014/05/16 20:01:22.238" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @30</logRecord>
+	<logRecord id="32" time="2014/05/16 20:01:22.260" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @30</logRecord>
+	<logRecord id="33" time="2014/05/16 20:01:23.466" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES drop "manipulator blockD" @31</logRecord>
+	<logRecord id="34" time="2014/05/16 20:01:23.467" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS drop "manipulator blockD" 1 @31</logRecord>
+	<logRecord id="35" time="2014/05/16 20:01:25.056" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "blockE" @32</logRecord>
+	<logRecord id="36" time="2014/05/16 20:01:25.061" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "blockE 1 2 3" 1 @32</logRecord>
+	<logRecord id="37" time="2014/05/16 20:01:26.404" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "cubestable" @33</logRecord>
+	<logRecord id="38" time="2014/05/16 20:01:26.440" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "cubestable 1 2 3" 1 @33</logRecord>
+	<logRecord id="39" time="2014/05/16 20:01:27.673" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @34</logRecord>
+	<logRecord id="40" time="2014/05/16 20:01:27.676" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @34</logRecord>
+	<logRecord id="41" time="2014/05/16 20:01:29.082" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES grab "manipulator blockE" @35</logRecord>
+	<logRecord id="42" time="2014/05/16 20:01:29.084" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS grab "manipulator blockE" 1 @35</logRecord>
+	<logRecord id="43" time="2014/05/16 20:01:30.310" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @36</logRecord>
+	<logRecord id="44" time="2014/05/16 20:01:30.314" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @36</logRecord>
+	<logRecord id="45" time="2014/05/16 20:01:31.658" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES drop "manipulator blockE" @37</logRecord>
+	<logRecord id="46" time="2014/05/16 20:01:31.662" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS drop "manipulator blockE" 1 @37</logRecord>
+	<logRecord id="47" time="2014/05/16 20:01:34.896" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "blockA" @38</logRecord>
+	<logRecord id="48" time="2014/05/16 20:01:34.937" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "blockA 1 2 3" 1 @38</logRecord>
+	<logRecord id="49" time="2014/05/16 20:01:36.485" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "cubestable" @39</logRecord>
+	<logRecord id="50" time="2014/05/16 20:01:36.495" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "cubestable 1 2 3" 1 @39</logRecord>
+	<logRecord id="51" time="2014/05/16 20:01:39.883" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @40</logRecord>
+	<logRecord id="52" time="2014/05/16 20:01:39.895" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @40</logRecord>
+	<logRecord id="53" time="2014/05/16 20:01:41.833" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES grab "manipulator blockA" @41</logRecord>
+	<logRecord id="54" time="2014/05/16 20:01:41.842" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS grab "manipulator blockA" 1 @41</logRecord>
+	<logRecord id="55" time="2014/05/16 20:01:45.732" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @42</logRecord>
+	<logRecord id="56" time="2014/05/16 20:01:45.761" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @42</logRecord>
+	<logRecord id="57" time="2014/05/16 20:01:47.241" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES drop "manipulator blockA" @43</logRecord>
+	<logRecord id="58" time="2014/05/16 20:01:47.242" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS drop "manipulator blockA" 1 @43</logRecord>
+	<logRecord id="59" time="2014/05/16 20:01:50.539" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "blockB" @44</logRecord>
+	<logRecord id="60" time="2014/05/16 20:01:50.540" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "blockB 1 2 3" 1 @44</logRecord>
+	<logRecord id="61" time="2014/05/16 20:01:51.827" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "cubestable" @45</logRecord>
+	<logRecord id="62" time="2014/05/16 20:01:51.860" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "cubestable 1 2 3" 1 @45</logRecord>
+	<logRecord id="63" time="2014/05/16 20:01:53.779" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @46</logRecord>
+	<logRecord id="64" time="2014/05/16 20:01:53.790" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @46</logRecord>
+	<logRecord id="65" time="2014/05/16 20:01:55.347" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES grab "manipulator blockB" @47</logRecord>
+	<logRecord id="66" time="2014/05/16 20:01:55.365" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS grab "manipulator blockB" 1 @47</logRecord>
+	<logRecord id="67" time="2014/05/16 20:01:56.797" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @48</logRecord>
+	<logRecord id="68" time="2014/05/16 20:01:56.824" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @48</logRecord>
+	<logRecord id="69" time="2014/05/16 20:01:58.466" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES drop "manipulator blockB" @49</logRecord>
+	<logRecord id="70" time="2014/05/16 20:01:58.475" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS drop "manipulator blockB" 1 @49</logRecord>
+	<logRecord id="71" time="2014/05/16 20:02:00.217" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "blockC" @50</logRecord>
+	<logRecord id="72" time="2014/05/16 20:02:00.238" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "blockC 1 2 3" 1 @50</logRecord>
+	<logRecord id="73" time="2014/05/16 20:02:02.208" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "blockF" @51</logRecord>
+	<logRecord id="74" time="2014/05/16 20:02:02.217" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "blockF 1 2 3" 1 @51</logRecord>
+	<logRecord id="75" time="2014/05/16 20:02:03.838" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES move_actuator "manipulator 1 2 3" @52</logRecord>
+	<logRecord id="76" time="2014/05/16 20:02:03.881" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS move_actuator "manipulator 1 2 3" 1 @52</logRecord>
+	<logRecord id="77" time="2014/05/16 20:02:06.150" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES grab "manipulator blockC" @53</logRecord>
+	<logRecord id="78" time="2014/05/16 20:02:06.154" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS grab "manipulator blockC" 1 @53</logRecord>

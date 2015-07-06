@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/05/19 11:20:11">
+	<logRecord id="0" time="2014/05/19 11:20:11.800" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/05/19 11:20:11.819" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/05/19 11:20:11.839" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/05/19 11:23:26.817" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "outsidedoor suscribe=writeany report=content" 1 @2</logRecord>
+	<logRecord id="4" time="2014/05/19 11:23:33.740" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "cubestable suscribe=writeany report=content" 1 @4</logRecord>
+	<logRecord id="5" time="2014/05/19 11:23:34.944" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "robot suscribe=writeany report=content" 1 @6</logRecord>
+	<logRecord id="6" time="2014/05/19 11:23:36.268" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockF suscribe=writeany report=content" 1 @8</logRecord>
+	<logRecord id="7" time="2014/05/19 11:23:37.432" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockE suscribe=writeany report=content" 1 @10</logRecord>
+	<logRecord id="8" time="2014/05/19 11:23:38.596" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockD suscribe=writeany report=content" 1 @12</logRecord>
+	<logRecord id="9" time="2014/05/19 11:23:39.901" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockC suscribe=writeany report=content" 1 @14</logRecord>
+	<logRecord id="10" time="2014/05/19 11:23:40.983" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockB suscribe=writeany report=content" 1 @16</logRecord>
+	<logRecord id="11" time="2014/05/19 11:23:42.087" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockA suscribe=writeany report=content" 1 @18</logRecord>
+	<logRecord id="12" time="2014/05/19 11:23:43.251" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "table suscribe=writeany report=content" 1 @20</logRecord>
+	<logRecord id="13" time="2014/05/19 11:23:46.081" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES status_object "sensors outsidedoor" @21</logRecord>
+	<logRecord id="14" time="2014/05/19 11:23:48.774" priority="5">Can't send to CUBES: PYROBOCLIPS CUBES speak "I'm checking if the door is open" @22 [Send failed . Module is busy ]</logRecord>
+	<logRecord id="15" time="2014/05/19 11:23:48.774" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS speak "I'm checking if the door is open" 0 @22</logRecord>
+	<logRecord id="16" time="2014/05/19 11:24:01.774" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS status_object "sensors outsidedoor closed" 1 @21</logRecord>
+	<logRecord id="17" time="2014/05/19 11:24:08.636" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES status_object "sensors outsidedoor" @23</logRecord>

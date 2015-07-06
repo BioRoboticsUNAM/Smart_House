@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/08/26 16:36:20">
+	<logRecord id="0" time="2014/08/26 16:36:20.738" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/08/26 16:36:20.741" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/08/26 16:36:25.453" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/08/26 16:36:29.954" priority="5">-&gt; [SUBSCRIPTION_TEST]: BLK SUBSCRIPTION_TEST suscribe_var "test_string suscribe=writeothers report=content" 0 @1</logRecord>
+	<logRecord id="4" time="2014/08/26 16:37:29.166" priority="5">Stopping modules...</logRecord>
+	<logRecord id="5" time="2014/08/26 16:37:29.166" priority="5">Blackboard server Stopped</logRecord>
+	<logRecord id="6" time="2014/08/26 16:37:29.369" priority="5">Blackboard Stopped</logRecord>
+	<logRecord id="7" time="2014/08/26 16:39:33.467" priority="5">Blackboard Started</logRecord>
+	<logRecord id="8" time="2014/08/26 16:39:43.069" priority="5">-&gt; [SUBSCRIPTION_TEST]: BLK SUBSCRIPTION_TEST suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @1</logRecord>
+	<logRecord id="9" time="2014/08/26 16:40:01.252" priority="5">-&gt; [SERIALC]: BLK SERIALC subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="10" time="2014/08/26 16:47:12.333" priority="5">-&gt; [SERIALC]: BLK SERIALC subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="11" time="2014/08/26 16:48:42.225" priority="5">-&gt; [SERIALC]: BLK SERIALC subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="12" time="2014/08/26 16:49:25.075" priority="5">Stopping modules...</logRecord>
+	<logRecord id="13" time="2014/08/26 16:49:25.075" priority="5">Blackboard server Stopped</logRecord>
+	<logRecord id="14" time="2014/08/26 16:49:25.389" priority="5">Blackboard Stopped</logRecord>
+</log>

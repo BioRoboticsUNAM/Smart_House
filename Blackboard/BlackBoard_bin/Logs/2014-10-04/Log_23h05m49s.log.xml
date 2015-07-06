@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/10/04 23:05:49">
+	<logRecord id="0" time="2014/10/04 23:05:49.179" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/10/04 23:05:49.204" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/10/04 23:05:52.676" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/10/04 23:06:02.571" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="4" time="2014/10/04 23:06:02.625" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="5" time="2014/10/04 23:09:03.328" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="6" time="2014/10/04 23:09:03.392" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="7" time="2014/10/04 23:09:42.296" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="8" time="2014/10/04 23:09:42.359" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="9" time="2014/10/04 23:10:51.888" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="10" time="2014/10/04 23:10:51.952" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="11" time="2014/10/04 23:11:51.688" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="12" time="2014/10/04 23:11:51.752" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="13" time="2014/10/04 23:17:00.536" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="14" time="2014/10/04 23:17:00.598" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="15" time="2014/10/04 23:18:35.169" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="16" time="2014/10/04 23:18:35.230" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="17" time="2014/10/04 23:19:03.713" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="18" time="2014/10/04 23:19:03.774" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="19" time="2014/10/04 23:21:46.232" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="20" time="2014/10/04 23:21:46.294" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="21" time="2014/10/04 23:23:56.316" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="22" time="2014/10/04 23:23:56.380" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="23" time="2014/10/04 23:27:44.904" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="24" time="2014/10/04 23:27:44.966" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="25" time="2014/10/04 23:28:18.081" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="26" time="2014/10/04 23:28:18.144" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="27" time="2014/10/04 23:28:36.620" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="28" time="2014/10/04 23:28:36.683" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="29" time="2014/10/04 23:31:16.384" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="30" time="2014/10/04 23:31:16.449" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="31" time="2014/10/04 23:34:28.728" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="32" time="2014/10/04 23:34:28.793" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="33" time="2014/10/04 23:43:07.084" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="34" time="2014/10/04 23:43:07.148" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="35" time="2014/10/04 23:43:11.897" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="36" time="2014/10/04 23:43:11.958" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="37" time="2014/10/04 23:46:04.205" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="38" time="2014/10/04 23:46:04.266" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="39" time="2014/10/04 23:50:05.404" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="40" time="2014/10/04 23:50:05.472" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="41" time="2014/10/04 23:50:20.068" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="42" time="2014/10/04 23:50:20.131" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="43" time="2014/10/04 23:53:13.000" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="44" time="2014/10/04 23:53:13.062" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="45" time="2014/10/04 23:56:02.129" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="46" time="2014/10/04 23:56:02.192" priority="5">-&gt; [SERIAL_HOUSE_C]: BLK SERIAL_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="47" time="2014/10/04 23:57:33.872" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="48" time="2014/10/04 23:57:33.934" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="49" time="2014/10/04 23:58:56.332" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "sensor subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="50" time="2014/10/04 23:58:56.397" priority="5">-&gt; [MONITOR_HOUSE_C]: BLK MONITOR_HOUSE_C subscribe_var "actuator subscribe=writeothers report=content" 1</logRecord>

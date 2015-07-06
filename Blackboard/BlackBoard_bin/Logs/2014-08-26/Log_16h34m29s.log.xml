@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/08/26 16:34:29">
+	<logRecord id="0" time="2014/08/26 16:34:29.384" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/08/26 16:34:29.387" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/08/26 16:34:31.701" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/08/26 16:34:55.110" priority="5">-&gt; [SERIALC]: BLK SERIALC subscribe_var "arduino_in subscribe=writeothers report=content" 1</logRecord>
+	<logRecord id="4" time="2014/08/26 16:35:54.080" priority="5">Stopping modules...</logRecord>
+	<logRecord id="5" time="2014/08/26 16:35:54.080" priority="5">Blackboard server Stopped</logRecord>
+	<logRecord id="6" time="2014/08/26 16:35:54.131" priority="5">Blackboard Stopped</logRecord>
+</log>

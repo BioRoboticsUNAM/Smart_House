@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/08/26 13:00:43">
+	<logRecord id="0" time="2014/08/26 13:00:43.629" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/08/26 13:00:43.647" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/08/26 13:01:05.632" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/08/26 13:03:26.942" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "test_shared_var suscribe=writeothers report=content" 1 @2</logRecord>
+	<logRecord id="4" time="2014/08/26 13:03:27.231" priority="5">-&gt; [STUB]: PYROBOCLIPS STUB cmd_one "params cmd one" @3</logRecord>
+	<logRecord id="5" time="2014/08/26 13:03:28.237" priority="5">-&gt; [PYROBOCLIPS]: STUB PYROBOCLIPS cmd_one "cmd_one response" 1 @3</logRecord>

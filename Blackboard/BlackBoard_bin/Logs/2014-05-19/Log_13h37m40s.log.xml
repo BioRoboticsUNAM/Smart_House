@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log startTime="2014/05/19 13:37:40">
+	<logRecord id="0" time="2014/05/19 13:37:40.676" priority="5">Loading configuration...</logRecord>
+	<logRecord id="1" time="2014/05/19 13:37:40.691" priority="5">Load complete!</logRecord>
+	<logRecord id="2" time="2014/05/19 13:37:40.715" priority="5">Blackboard Started</logRecord>
+	<logRecord id="3" time="2014/05/19 13:39:15.577" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "outsidedoor suscribe=writeany report=content" 1 @2</logRecord>
+	<logRecord id="4" time="2014/05/19 13:39:28.504" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "cubestable suscribe=writeany report=content" 1 @4</logRecord>
+	<logRecord id="5" time="2014/05/19 13:39:29.869" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "robot suscribe=writeany report=content" 1 @6</logRecord>
+	<logRecord id="6" time="2014/05/19 13:39:31.032" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockF suscribe=writeany report=content" 1 @8</logRecord>
+	<logRecord id="7" time="2014/05/19 13:39:32.195" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockE suscribe=writeany report=content" 1 @10</logRecord>
+	<logRecord id="8" time="2014/05/19 13:39:33.400" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockD suscribe=writeany report=content" 1 @12</logRecord>
+	<logRecord id="9" time="2014/05/19 13:39:34.543" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockC suscribe=writeany report=content" 1 @14</logRecord>
+	<logRecord id="10" time="2014/05/19 13:39:35.947" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockB suscribe=writeany report=content" 1 @16</logRecord>
+	<logRecord id="11" time="2014/05/19 13:39:37.151" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "blockA suscribe=writeany report=content" 1 @18</logRecord>
+	<logRecord id="12" time="2014/05/19 13:39:38.114" priority="5">-&gt; [PYROBOCLIPS]: BLK PYROBOCLIPS suscribe_var "table suscribe=writeany report=content" 1 @20</logRecord>
+	<logRecord id="13" time="2014/05/19 13:39:39.559" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES status_object "sensors outsidedoor" @21</logRecord>
+	<logRecord id="14" time="2014/05/19 13:39:41.187" priority="5">Can't send to CUBES: PYROBOCLIPS CUBES speak "I'm checking if the door is open" @22 [Send failed . Module is busy ]</logRecord>
+	<logRecord id="15" time="2014/05/19 13:39:41.188" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS speak "I'm checking if the door is open" 0 @22</logRecord>
+	<logRecord id="16" time="2014/05/19 13:39:47.317" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS status_object "sensors outsidedoor open" 1 @21</logRecord>
+	<logRecord id="17" time="2014/05/19 13:39:57.154" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES goto "robot frontentrance" @23</logRecord>
+	<logRecord id="18" time="2014/05/19 13:39:57.165" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS goto "robot frontentrance 1" 1 @23</logRecord>
+	<logRecord id="19" time="2014/05/19 13:40:14.143" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES goto "robot cubestable" @24</logRecord>
+	<logRecord id="20" time="2014/05/19 13:40:14.158" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS goto "robot cubestable 1" 1 @24</logRecord>
+	<logRecord id="21" time="2014/05/19 13:40:21.796" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES speak "I will acomodate the cubes" @25</logRecord>
+	<logRecord id="22" time="2014/05/19 13:40:21.797" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS speak "speak response" 1 @25</logRecord>
+	<logRecord id="23" time="2014/05/19 13:42:21.722" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "blockD" @26</logRecord>
+	<logRecord id="24" time="2014/05/19 13:42:21.841" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "blockD 1 2 3" 1 @26</logRecord>
+	<logRecord id="25" time="2014/05/19 13:42:54.415" priority="5">-&gt; [CUBES]: PYROBOCLIPS CUBES find_object "cubestable" @27</logRecord>
+	<logRecord id="26" time="2014/05/19 13:42:54.431" priority="5">-&gt; [PYROBOCLIPS]: CUBES PYROBOCLIPS find_object "cubestable 1 2 3" 1 @27</logRecord>
